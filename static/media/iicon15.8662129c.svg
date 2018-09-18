@@ -1,0 +1,43 @@
+<svg width="142.4000151552741" height="64.59998647412067" xmlns="http://www.w3.org/2000/svg">
+ <style type="text/css">.st0{fill:#FAFAFA;}
+	.st1{fill:#010202;}
+	.st2{fill:#FFFFFF;}</style>
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_483">
+   <g id="svg_484">
+    <rect id="svg_485" height="10" width="109.5" y="42.799988" x="27.100006"/>
+   </g>
+   <g id="svg_486">
+    <circle id="svg_487" r="8.4" cy="56.199988" cx="43.000006"/>
+   </g>
+   <g id="svg_488">
+    <circle id="svg_489" r="8.4" cy="56.199988" cx="123.800006"/>
+   </g>
+   <g id="XMLID_6_">
+    <g id="svg_490">
+     <path id="svg_491" d="m142.400006,18.699988l0,26.9l-49.2,0l0,-45.6l26.8,0l22.4,18.7zm-37.2,1.8l29.2,0l-16.6,-14.7l-12.7,0l0,14.7l0.1,0z"/>
+    </g>
+   </g>
+   <g id="svg_492">
+    <rect id="svg_493" height="36.6" width="73.4" y="8.299988" x="16.000006"/>
+   </g>
+   <g id="svg_494">
+    <path id="svg_495" d="m34.500006,38.099988l-34.5,0l0,-29.8l34.5,0l0,29.8zm-29.5,-5l24.5,0l0,-19.8l-24.5,0l0,19.8z"/>
+   </g>
+   <g id="svg_496">
+    <g id="svg_497">
+     <circle id="svg_498" r="7.2" cy="33.799988" cx="54.800006" class="st2"/>
+    </g>
+    <g id="svg_499">
+     <polygon id="svg_500" points="55,17.5999755859375 48.399993896484375,30.70001220703125 61.300018310546875,30.70001220703125 " class="st2"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
