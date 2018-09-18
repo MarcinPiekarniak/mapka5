@@ -1,0 +1,1 @@
+export { SearchPanelContainer } from './SearchPanel';

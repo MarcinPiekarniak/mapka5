@@ -1,0 +1,1 @@
+export { LegendPanelContainer } from './LegendPanel';

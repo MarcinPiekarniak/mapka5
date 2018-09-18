@@ -1,0 +1,49 @@
+<svg width="100.00000762939453" height="74.79999542236328" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="102.000008" height="76.799995" id="canvas_background" fill="none"/>
+ </g>
+
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" id="svg_1">
+   <g stroke="null" id="svg_2">
+    <g stroke="null" id="svg_3">
+     <rect stroke="null" id="svg_4" height="7.49893" width="80.586001" y="59.383421" x="14.15701"/>
+    </g>
+   </g>
+   <g stroke="null" id="svg_5">
+    <g stroke="null" id="svg_6">
+     <circle stroke="null" id="svg_7" r="6.137999" cy="69.517111" cx="25.93801"/>
+    </g>
+   </g>
+   <g stroke="null" id="svg_8">
+    <g stroke="null" id="svg_9">
+     <circle stroke="null" id="svg_10" r="6.138001" cy="69.517111" cx="85.338011"/>
+    </g>
+   </g>
+   <g stroke="null" id="XMLID_1_">
+    <g stroke="null" id="svg_11">
+     <g stroke="null" id="svg_12">
+      <path stroke="null" id="svg_13" d="m99.000011,41.244117l0,20.267379l-36.135,0l0,-34.353208l19.701,0l16.434,14.085829zm-27.324,1.31738l21.483,0l-12.177,-11.045722l-9.306,0l0,11.045722z"/>
+     </g>
+    </g>
+   </g>
+   <g stroke="null" id="svg_14">
+    <g stroke="null" id="svg_15">
+     <rect stroke="null" id="svg_16" height="27.9" width="5.2" transform="matrix(0.5796450055837632,-0.8215382192730903,0.8025930077314377,0.5933275285363198,138.75790633666517,454.19875932437185) " y="-331.06522" x="254.48788"/>
+    </g>
+   </g>
+   <g stroke="null" id="svg_17">
+    <g stroke="null" id="svg_18">
+     <rect stroke="null" id="svg_19" height="5.2" width="95" transform="matrix(0.8850600085258484,-0.4539892959594727,0.44352000427246097,0.9059518539905548,25.404291244721414,244.99542490142582) " y="-178.13752" x="66.64343"/>
+    </g>
+   </g>
+   <g stroke="null" id="svg_20">
+    <g stroke="null" id="svg_21">
+     <polygon stroke="null" id="svg_22" points="5.64301213932049,54.72192406654358 0,43.06818097829819 84.84301290225994,0 90.48602504158043,11.552403872408377 87.81301293087017,12.971121968560055 83.55602497482323,4.053475856781006 3.9600000381469727,44.486899074449866 8.21701820659655,53.4045413205331 "/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

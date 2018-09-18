@@ -1,0 +1,29 @@
+{
+  "name": "lotnisko-app",
+  "version": "0.1.1",
+  "private": true,
+  "homepage": "https://marcinpiekarniak.github.io/mapka5",
+  "dependencies": {
+    "@turf/bbox": "^6.0.1",
+    "@turf/boolean-contains": "^6.0.1",
+    "d3-request": "^1.0.6",
+    "deck.gl": "^6.0.2",
+    "gh-pages": "^1.2.0",
+    "rbush": "^2.0.2",
+    "react": "^16.3.1",
+    "react-dom": "^16.3.1",
+    "react-onclickoutside": "^6.7.1",
+    "react-redux": "5.0.7",
+    "react-scripts": "1.1.4",
+    "redux": "3.7.2",
+    "redux-thunk": "2.2.0"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "PORT=3003 react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

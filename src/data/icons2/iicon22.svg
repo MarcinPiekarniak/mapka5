@@ -1,0 +1,47 @@
+<svg width="116.39999952587891" height="90.29999105175739" xmlns="http://www.w3.org/2000/svg">
+ <style type="text/css">.st0{fill:#FFFFFF;}</style>
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="843.9" width="597.3" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_1">
+   <g id="svg_2">
+    <g id="svg_3">
+     <rect id="svg_4" height="8.3" width="108.3" y="72.099988" x="-0.000002"/>
+    </g>
+   </g>
+   <g id="svg_5">
+    <g id="svg_6">
+     <circle id="svg_7" r="7" cy="83.299988" cx="13.099998"/>
+    </g>
+   </g>
+   <g id="svg_8">
+    <g id="svg_9">
+     <circle id="svg_10" r="7" cy="83.299988" cx="96.299998"/>
+    </g>
+   </g>
+   <g id="XMLID_1_">
+    <g id="svg_11">
+     <g id="svg_12">
+      <path id="svg_13" d="m113.199998,52.099988l0,22.4l-41,0l0,-38l22.3,0l18.7,15.6zm-31.1,1.4l24.3,0l-13.7,-12.2l-10.6,0l0,12.2z"/>
+     </g>
+    </g>
+   </g>
+   <g id="svg_14">
+    <rect id="svg_15" height="76" width="6" transform="matrix(0.5973,-0.802,0.802,0.5973,-72.2287,123.0405) " y="5.214792" x="118.103725"/>
+   </g>
+   <g id="svg_16">
+    <rect id="svg_17" height="6" width="77.2" transform="matrix(0.8089,-0.5879,0.5879,0.8089,-61.7012,77.0413) " y="33.971975" x="55.392538"/>
+   </g>
+   <g id="svg_18">
+    <rect id="svg_19" height="32.6" width="89.3" y="-0.000012" x="-0.000002"/>
+   </g>
+   <g id="svg_20">
+    <path id="svg_21" d="m116.399998,33.099988l-36.2,0l0,-23l36.2,0l0,23zm-32.3,-4l28.3,0l0,-15l-28.2,0l0,15l-0.1,0z"/>
+   </g>
+  </g>
+ </g>
+</svg>
